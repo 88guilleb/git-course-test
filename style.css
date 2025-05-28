@@ -1,0 +1,19 @@
+ /* Estilos generales para el cuerpo de la página */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  margin: 2rem;
+}
+
+/* Título principal */
+h1 {
+  color: #007acc;
+  font-size: 2rem;
+}
+
+/* Párrafos */
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
